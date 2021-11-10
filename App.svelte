@@ -43,14 +43,6 @@
 	  will-change: transform;
 	}
 
-	.parallax-container img:last-child::after {
-	  content: "";
-	  position: absolute;
-	  width: 100%;
-	  height: 100%;
-	  background: rgb(45, 10, 13);
-	}
-
 	.text {
 	  position: relative;
 	  width: 100%;
